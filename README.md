@@ -1,4 +1,4 @@
-# the_holy_quran
+# The Quran
 
 A new Flutter project.
 
